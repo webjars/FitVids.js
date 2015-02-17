@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>FitVids.js</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <name>FitVids.js</name>
     <description>WebJar for FitVids.js</description>
     <url>http://webjars.org</url>
@@ -37,7 +37,7 @@
         <developer>
             <id>mkurz</id>
             <name>M.K.</name>
-            <email></email>
+            <email />
         </developer>
     </developers>
 
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/FitVids.js</url>
         <connection>scm:git:https://github.com/webjars/FitVids.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/FitVids.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>FitVids.js-1.1.0</tag>
     </scm>
 
     <dependencies>
